@@ -1,0 +1,2 @@
+[console_scripts]
+sto = lab1_uip:main
