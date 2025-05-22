@@ -1,2 +1,3 @@
 [console_scripts]
 sto = lab1_uip:main
+tests = test_lab3:main

@@ -5,10 +5,11 @@ setup(
     version='1.0',
     description='Система обліку обслуговування автомобілів',
     author='dimyk',
-    py_modules=['lab1_uip'],  # ім’я .py файлу без розширення
+    py_modules=['lab1_uip', 'test_lab3'],  # ім’я .py файлу без розширення
     entry_points={
         'console_scripts': [
-            'sto = lab1_uip:main'
+            'sto = lab1_uip:main',
+            'tests = test_lab3:main'
         ],
     },
     classifiers=[

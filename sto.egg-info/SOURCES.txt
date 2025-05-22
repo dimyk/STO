@@ -1,5 +1,6 @@
 lab1_uip.py
 setup.py
+test_lab3.py
 sto.egg-info/PKG-INFO
 sto.egg-info/SOURCES.txt
 sto.egg-info/dependency_links.txt
